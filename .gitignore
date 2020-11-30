@@ -6,6 +6,11 @@
 06_Principal_Component_Analysis.ipynb
 07_Hierarchical_Clustering.ipynb
 crypto_clustering_starter_code.ipynb
+iris.csv
+new_iris_data.csv
+shopping_data_cleaned.csv
+shopping_data_cleaned.tsv
+shopping_data.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
