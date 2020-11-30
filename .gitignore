@@ -1,3 +1,11 @@
+01_Cleaning_Data_for_ML.ipynb
+02_Plotting_KMeans_Clusters.ipynb
+03_Plotting_Variable_KMeans_Clusters.ipynb
+04_Elbow_Curve_Irises.ipynb
+05_Elbow_Curve_Shopping.ipynb
+06_Principal_Component_Analysis.ipynb
+07_Hierarchical_Clustering.ipynb
+crypto_clustering_starter_code.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
